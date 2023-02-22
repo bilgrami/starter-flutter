@@ -1,1 +1,2 @@
 docker stop my_flutter_web
+docker rm my_flutter_web
