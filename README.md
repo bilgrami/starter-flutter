@@ -1,16 +1,25 @@
-# myqt_mob
+## Docker based Flutter Web Project 
 
-A new Flutter project.
+This repo contains a docker based flutter web project. 
 
-## Getting Started
+## to build your container for the flutter web project 
+```bash
+./build-docker.sh
+```
 
-This project is a starting point for a Flutter application.
+## to run your container running the flutter web project 
+```bash
+./run.sh
+```
 
-A few resources to get you started if this is your first Flutter project:
+then go to localhost:8080 to visit your website.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## to stop your container running the flutter web project 
+```bash
+./stop.sh
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## screenshot
+![Screenshot](./docs/Screenshot%202023-02-22%20at%202.15.51%20AM.png)
+
+---
