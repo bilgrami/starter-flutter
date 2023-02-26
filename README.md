@@ -14,7 +14,17 @@ This repo contains a docker based flutter web project.
 
 then go to localhost:8080 to visit your website.
 
-## to stop your container running the flutter web project 
+## to stop/remove the container, and run your flutter web project 
+Just add 1 as parameter
+
+```bash
+./run.sh 1
+```
+
+then go to localhost:8080 to visit your website.
+
+
+## to stop/remove your container running the flutter web project 
 ```bash
 ./stop.sh
 ```
