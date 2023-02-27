@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myqt_mob">
+    package="com.example.starter_flutter">
    <application
-        android:label="myqt_mob"
+        android:label="starter_flutter"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

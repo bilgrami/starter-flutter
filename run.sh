@@ -1,5 +1,5 @@
 container_source=bilgrami/starter-flutter:v1
-container_name=my_flutter_web
+container_name=starter_flutter_web
 ARG_DROP_CONTAINER=${1:-0}
 if [ $ARG_DROP_CONTAINER -eq 1 ]; then
     echo "stopping and removing ${container_name} container"

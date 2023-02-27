@@ -1,4 +1,4 @@
-package com.example.myqt_mob
+package com.example.starter_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -30,7 +30,7 @@ then go to localhost:8080 to visit your website.
 ```
 
 ## screenshot
-![Screenshot](./docs/Screenshot%202023-02-22%20at%202.15.51%20AM.png)
+![Screenshot](./doc/Screenshot%202023-02-22%20at%202.15.51%20AM.png)
 
 ---
 
